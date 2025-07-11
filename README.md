@@ -3,7 +3,8 @@
 Hola soy programador Junior **Full Stack** con experiencia en **frontend** y **Backend**. Me mantengo en constante aprendizaje para desarrollar nuevas habilidades, actualmente estoy conociendo un poco sobre el mundo del desarrollo de videojuegos.
 
 **Redes Sociales:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-alessander-medina-leon-4935601a3/)
+
+[![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-alessander-medina-leon-4935601a3/) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Alessgreen94) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alessanderleon/?hl=es) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jonathan.a.leon.3/?locale=es_LA) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/636224952277663744)
 ---
 # 💻 Tecnologias
 
